@@ -12,9 +12,9 @@ body{
     align-items: center;
     flex-direction: column;
 }
-.content-box{
-    
-}
+/* .content-box{
+
+} */
 #clock-reading{
     font-family: 'DS-DIGITAL';
     font-size: 150px;
