@@ -22,3 +22,9 @@ body{
     width: 100%;
     letter-spacing: 10px;
 }
+#date-reading{
+    font-family: 'Leaner';
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+}
